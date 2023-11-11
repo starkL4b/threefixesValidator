@@ -1,4 +1,4 @@
-package com.igs.threefixesValidator
+package com.igs.threefixesvalidator
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.igs.threefixesValidator", appContext.packageName)
+        assertEquals("com.igs.threefixesvalidator", appContext.packageName)
     }
 }

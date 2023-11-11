@@ -1,4 +1,4 @@
-package com.igs.threefixesValidator
+package com.igs.threefixesvalidator
 
 import org.junit.Test
 
