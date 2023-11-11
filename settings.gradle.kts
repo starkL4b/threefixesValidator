@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "threefixesValidator"
 include(":app")
- 
+include(":validator")
